@@ -7,6 +7,6 @@ echo "a top quality player - tactics tim";
 
 <style type="text/css" id="custom-background-css">
 body{
-  background-image: url("C:\Users\mckerrcb\Desktop\fresh memes 2.0\benteke.jpg");
+  background-image: url("C:\Users\mckerrcb\Desktop\fresh_memes_2.0\benteke.jpg");
 }
 </style>
