@@ -1,8 +1,8 @@
 <?php
 
-echo "<h2>christian benteke appreciation club</h2>";
-echo "avl 2-1 lvp<br>";
-echo "a top quality player - tactics tim";
+echo "<h2>hull city appreciation club</h2>";
+echo "1 - 0<br>";
+echo "top quality football lads - big stevie bruce";
 ?>
 
 <style type="text/css" id="custom-background-css">
