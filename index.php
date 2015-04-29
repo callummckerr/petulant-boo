@@ -3,7 +3,7 @@
 echo "<h2>hull city appreciation club</h2>";
 echo "1 - 0<br>";
 echo "top quality football lads - big stevie bruce";
-echo
+echo ""
 
 ?>
 
